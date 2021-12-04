@@ -1,0 +1,1 @@
+Olá, seja bem-vindo ao meu repositório do Spark AR. Aqui você encontrará bases de projetos, anotações, e templates, fique a vontade para explorar os arquivos, como também outros repositórios. Eu sou Rodrigo Alexandre, Graduando/discente em Análise e Desenvolvimento de Sistemas, e também em Engenharia da Computação. 
